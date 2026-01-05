@@ -1,2 +1,1 @@
-learning the git step by step
-this line is from feature branch
+line from conflict branch
