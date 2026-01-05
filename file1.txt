@@ -1,2 +1,3 @@
 line from master branch
 line form conflict branch
+update from local
